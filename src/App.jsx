@@ -7,7 +7,7 @@ function App() {
       <h1>Rogue</h1>
       <Gameboard />
     </div>
-  )
+  );
 }
 
 export default App;
